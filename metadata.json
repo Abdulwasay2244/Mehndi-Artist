@@ -1,0 +1,8 @@
+{
+  "name": "Mehndi Artist Studio",
+  "description": "Luxury Bridal, Arabic, Party Wear, Eid, Engagement, and Balochi Mehndi artistry and direct WhatsApp appointment booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
